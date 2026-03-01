@@ -1,0 +1,11 @@
+# Core AI Stack
+onnxruntime-vitisai  # The most important library for AMD NPU
+onnx
+librosa              # For high-fidelity audio processing
+numpy
+scipy
+
+# Dashboard & UI
+streamlit
+plotly
+pandas

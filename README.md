@@ -24,7 +24,7 @@ We leverage the **AMD Ryzen™ AI (XDNA Architecture)** and the **Vitis™ AI Ex
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 - `/models`: Quantized ONNX models optimized for XDNA.
 - `/src`: Audio processing and inference logic.
 - `app.py`: The "Project Drishti" inspired dashboard.

@@ -1,0 +1,1 @@
+This folder contains the quantized ONNX models specifically optimized for the AMD Vitis™ AI Execution Provider. These models are designed to run on the XDNA™ architecture of the Ryzen AI NPU to achieve sub-2ms inference latency for industrial acoustic anomaly detection.
